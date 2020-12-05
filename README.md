@@ -14,7 +14,7 @@ After opening the app,a landing page or home page will be launched.Next we need 
   <br />                
                   
                   
-<div align="center">
+<div align="left">
     <img src="https://github.com/Zero-Factorial/Medical-Prescription-Reader/blob/master/images/Landing_Page.png" width="320px"</img> 
     <img src="https://github.com/Zero-Factorial/Medical-Prescription-Reader/blob/master/images/captured.png" width="380px"</img> 
 </div>
@@ -32,8 +32,8 @@ After opening the app,a landing page or home page will be launched.Next we need 
 <br />
 
 <div align="left">
-    <img src="https://github.com/Zero-Factorial/Medical-Prescription-Reader/blob/master/images/result_page.png" width="460px"</img> 
-    <img src="https://github.com/Zero-Factorial/Medical-Prescription-Reader/blob/master/images/Special.png" width="400px"</img> 
+    <img src="https://github.com/Zero-Factorial/Medical-Prescription-Reader/blob/master/images/result_page.png" width="440px"</img> 
+    <img src="https://github.com/Zero-Factorial/Medical-Prescription-Reader/blob/master/images/Special.png" width="380px"</img> 
     
 </div>
 

@@ -15,28 +15,30 @@ After opening the app,a landing page or home page will be launched.Next we need 
                   
                   
 <div align="center">
-    <img src="https://github.com/Zero-Factorial/Medical-Prescription-Reader/blob/master/images/Landing_Page.png" width="400px"</img> 
-    <img src="https://github.com/Zero-Factorial/Medical-Prescription-Reader/blob/master/images/captured.png" width="520px"</img> 
+    <img src="https://github.com/Zero-Factorial/Medical-Prescription-Reader/blob/master/images/Landing_Page.png" width="350px"</img> 
+    <img src="https://github.com/Zero-Factorial/Medical-Prescription-Reader/blob/master/images/captured.png" width="400px"</img> 
 </div>
    
 
 
 <br /> 
+<br />
 
 
-Here the captured image is selected if it is in good quality by ok button otherwise recapture image by retry button.
+ Here the captured image is selected if it is in good quality by ok button otherwise recapture image by retry button.
 
 
 
 <br />
 
 <div align="left">
-    <img src="https://github.com/Zero-Factorial/Medical-Prescription-Reader/blob/master/images/result_page.png" width="550px"</img> 
-    <img src="https://github.com/Zero-Factorial/Medical-Prescription-Reader/blob/master/images/Special.png" width="455px"</img> 
+    <img src="https://github.com/Zero-Factorial/Medical-Prescription-Reader/blob/master/images/result_page.png" width="500px"</img> 
+    <img src="https://github.com/Zero-Factorial/Medical-Prescription-Reader/blob/master/images/Special.png" width="400px"</img> 
     
 </div>
 
 
+<br />
 <br />
 
 Finally the details information of the medicines is displayed. If a medicine has a high side effect rate it's side effect rate will display as 
